@@ -47,7 +47,7 @@ To run the Todo App locally, follow these steps:
 3. Install dependencies using npm or yarn:
     ```
     npm install
-    # or
+    or
     yarn install
     ```
 4. Start the development server:
