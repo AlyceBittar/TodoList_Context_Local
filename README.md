@@ -1,4 +1,4 @@
-# Todo App README
+# Todo App: Leveraging Context API
 
 ## Overview
 This Todo App allows users to manage their todos efficiently by utilizing **Context API** to provide features like adding, updating, deleting, and marking todos as completed.
