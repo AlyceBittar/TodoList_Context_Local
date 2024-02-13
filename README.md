@@ -36,7 +36,7 @@ The Todo App uses the Context API to manage state and provide todo-related funct
 ## Usage
 Once the Todo App is running, you can use the following functionalities:
 - **Add Todo**: Enter a new todo message in the input field and press the "Add" button.
-- **Update Todo**: Click on the edit icon (✏️) next to a todo to edit its message. Press Enter to save the changes.
+- **Update Todo**: Click on the edit icon (✏️) next to a todo to edit its message. Press the save icon (📁) or Enter to save the changes.
 - **Delete Todo**: Click on the delete icon (❌) next to a todo to delete it.
 - **Complete Todo**: Click on the checkbox next to a todo to mark it as completed. The completed todos will have a strikethrough effect on their text.
 
