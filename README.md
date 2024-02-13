@@ -45,16 +45,14 @@ To run the Todo App locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using npm or yarn:
-    ```bash
+    ```
     npm install
     # or
     yarn install
     ```
 4. Start the development server:
-    ```bash
-    npm start
-    # or
-    yarn start
+    ```
+    npm run dev
     ```
 5. Open your browser and visit `http://localhost:3000` to view the app.
 
