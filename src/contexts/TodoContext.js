@@ -1,6 +1,8 @@
 import {createContext, useContext} from "react"
 
+// Create a context for managing todos
 export const TodoContext = createContext({
+    // Default value with an example todo
     todos: [
         {
             id: 1,
@@ -15,8 +17,9 @@ export const TodoContext = createContext({
     toggleComplete: (id) => {}
 })
 
+// Custom hook to use the TodoContext
 export const useTodo = () => {
-    return useContext(TodoContext)
-}
+    return useContext(TodoContext);
+};
 
 export const TodoProvider = TodoContext.Provider
